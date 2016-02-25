@@ -20,7 +20,15 @@ body {
   background-image: url(../images/background.svg);
   background-size: cover;
   background-repeat: no-repeat;
-  min-height: 100vh;
+  min-height: 1vh;
+}
+
+.white {
+  color: white;
+}
+
+.title {
+  width: 100%;
 }
 
 .t0 {
@@ -46,6 +54,10 @@ body {
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-miterlimit: 10;
+}
+
+.walleye {
+  width: 100%;
 }
 
 .w0 {
@@ -127,6 +139,10 @@ body {
   stroke-miterlimit: 10;
 }
 
+.big-canada {
+  width: 100%;
+}
+
 .bc0 {
   fill: #9fc195;
 }
@@ -206,20 +222,8 @@ body {
   fill: #fff;
 }
 
-.g0 {
-  fill: #7d6f78;
-}
-
-.g1 {
-  fill: #1ea5a6;
-}
-
-.g2 {
-  fill: #fff;
-}
-
-.g3 {
-  fill: #a7a9aC;
+.leaf {
+  width: 100%;
 }
 
 .le0 {
@@ -232,6 +236,10 @@ body {
 
 .le2 {
   fill: #95d5d2;
+}
+
+.worm-graph {
+  width: 100%;
 }
 
 .wg0 {
