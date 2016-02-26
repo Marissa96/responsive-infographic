@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  background-image: url(../images/background.svg);
+  background-image: url("../images/background.svg");
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 1vh;
@@ -70,7 +70,7 @@ body {
   stroke-miterlimit: 10;
 }
 
-.w1{
+.w1 {
   fill: none;
   stroke: #23bdbd;
   stroke-width: 2;
