@@ -27,6 +27,10 @@ body {
   color: white;
 }
 
+.blah {
+  text-align: center;
+}
+
 .title {
   width: 100%;
 }
